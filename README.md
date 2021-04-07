@@ -1,3 +1,3 @@
 # Project
 
-This application is as simple REST API for the backend of a bookstore using Go and the Gin framework.
+This application is a simple REST API for the backend of a bookstore using Go and the Gin framework.
